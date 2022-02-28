@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The title of Sir Thomas Dawes Kt Thomas Cromwell, and Humfrey Walrond, esqs; and Josias Tully, gent. to certain improved lands in the West and North Fenns in the county of Lincoln, together with the objections, and an answer to the same, as it now depends in Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94381</idno>
+            <idno type="STC">Wing T1309</idno>
+            <idno type="STC">Thomason 669.f.19[56]</idno>
+            <idno type="STC">ESTC R212177</idno>
+            <idno type="EEBO-CITATION">99870823</idno>
+            <idno type="PROQUEST">99870823</idno>
+            <idno type="VID">163393</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94381)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163393)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f19[56])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The title of Sir Thomas Dawes Kt Thomas Cromwell, and Humfrey Walrond, esqs; and Josias Tully, gent. to certain improved lands in the West and North Fenns in the county of Lincoln, together with the objections, and an answer to the same, as it now depends in Parliament.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Decemb: ye 28th: 1654".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dawes, Thomas, --  Sir, --  of Surrey --  Early works to 1800.</term>
+               <term>Cromwell, Thomas, --  Esq. --  Early works to 1800.</term>
+               <term>Walrond, Humfrey --  Early works to 1800.</term>
+               <term>Tully, Josias --  Early works to 1800.</term>
+               <term>Land tenure --  England --  Lincoln --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:163393:1" rendition="simple:additions"/>
+            <head>The Title of Sir Thomas Dawes K<hi rend="sup">t.</hi> Thomas Cromwell, and <hi>Humfrey Walrond,</hi> 
+               <abbr>Eſqs</abbr> and <hi>Joſias Tully,</hi> Gent. to certain Improved Lands in the Weſt and North <hi>Fenns</hi> in the County of <hi>Lincoln,</hi> together with the Objections, and An<g ref="char:EOLhyphen"/>ſwers to the ſame, as it now depends in PARLIAMENT.</head>
+            <p>THe late King <hi>Charls</hi> being ſeized in Fee in right of his Dutchy of <hi>Lancaſter,</hi> of the Eaſt, Weſt, and North Fenns, in the County of <hi>Lin<g ref="char:EOLhyphen"/>colne,</hi> in which his Majeſty and his progenitors, as Lords, had right of common and liberty of receiving in Cattle to agiſtment, his Majeſty and his Progenitors (untill the late improvement made by his Majeſty) have anciently let his ſaid right of Common and Agiſtment, for the yearly Rent of 18 <hi>l. per annum,</hi> for which his Majeſties Farmor hath uſed to keep and take into Joiſtment, as great a Stock as all the Commoners kept, as the Commoners themſelves confeſs.</p>
+            <p>16 <hi>July,</hi> in the 11 year of his ſaid Majeſties Reign, a Commiſſion iſſued under the Dutchy Seal to ſir <hi>Anthony Irby</hi> and others, to treat and agree with the Commoners for an improvement to be made out of the ſaid Fenns unto his Majeſtie: Upon the treaty of which Commiſſioners, the Commoners did offer and agree under their hands, that his Majeſtie ſhould have one Moyty of the Weſt and North Fenns, ſo as they might have the ſale of the other Moyty grant<g ref="char:EOLhyphen"/>ed unto them, diſcharged of the ſaid Rent of 18 <hi>l.</hi> and of all right of common to be after claimed by his Majeſty or his ſaid Farmor of the ſaid Agiſtment, which was accepted of by the Commiſſioners for his Majeſtie, ſo as his Majeſty might have 1000 Acres out of the ſaid Eaſt Fenn, all which was then ſet down in wri<g ref="char:EOLhyphen"/>ting, and aſſented unto, and ſubſcribed by about 1700 of the Commoners (being more then in truth had right of Common in the ſaid Fens) which they de<g ref="char:EOLhyphen"/>ſired might receive further ſtrength and ſettlement by decree of the Dutchy Court.</p>
+            <p>Whereupon in <hi>Mich.</hi> Term following, for ſettling of the ſaid agreement by Decree, an Information was exhibited in the Dutchy Court by his Majeſties Attorney of that Court, againſt the Commoners that had aſſented to the ſaid improvement; and others that had not aſſented, to the number of 200, or 300 by ſpecial name.</p>
+            <p>In the ſame <hi>Mich.</hi> Term, 11 <hi>Car.</hi> the Commiſſion was renewed to treat and compound with ſuch Commoners as had not aſſented, and it was then alſo or<g ref="char:EOLhyphen"/>dered by that Court, that thoſe who had aſſented, being many in number, ſhould elect ſome certain perſons to anſwer for them, by whoſe anſwers they would be bound, and that ſuch as had not aſſented, ſhould likewiſe elect ſome perſons to anſwer for them, by whoſe anſwers they would be bound.</p>
+            <p>In <hi>December</hi> following, a Commiſſion iſſued accordingly to ſir <hi>Anthony Irby</hi> and others, who meeting with the Commoners, thoſe who formerly had aſ<g ref="char:EOLhyphen"/>ſented, together with ſuch others as had not formerly aſſented, did all ſigne the ſaid former agreements, and did alſo under their hands elect certain perſons to anſwer for them.</p>
+            <p>Whereupon the perſons ſo elected to anſwer, made their anſwers, confeſſing the agreements aforeſaid, <hi>in haec verba,</hi> and that they were willing to perform the ſame, ſo as the agreement, as to them, might be performed on his Majeſties part.</p>
+            <p>Whereupon in <hi>Hillary</hi> Term following, in preſence and by aſſent of Mr. Attorney General for his Majeſtie, and of the Commoners councel, it was ordered in the Dutchy Court, that a Commiſſion ſhould iſſue forth, according to the firſt agreement, unto 8 Commiſſioners; 4 to be choſen on his Majeſties part, and 4 by the Commoners, to make diviſion of the ſaid Weſt and North Fens; and to ſet out 1000 acres in the Eaſt Fen, according to the ſaid agreement.</p>
+            <p>According to which order, <hi>Hill. 11. Car.</hi> a Commiſſion iſſued to ſir <hi>Edward Heron,</hi> ſir <hi>Anthony Irby, Richard Tothby, Thomas Hatcher, Iſaac Johnſon, Thomas Coke, Thomas Wright,</hi> Eſquires, and <hi>Thomas Styleman</hi> Gent.</p>
+            <p>2. <hi>Maii, 12 Car.</hi> the ſaid Commiſſioners certifie, that they had made a diviſion of the Weſt and North Fens into two moyties, and had ſet out 1000 acres in the ſaid Eaſt Fen, which moyties were deſigned upon a plot by the Letters of <hi>A.</hi> and <hi>B.</hi> and election given and made, by the Commoners, to chuſe which part they would (the plot remains on Record in the Dutchy Court ſubſcribed by the ſaid Commiſſioners.</p>
+            <p>In the ſame <hi>Hill.</hi> Term 12 <hi>Car.</hi> An Injunction out of the Dutchy Court was granted to eſtabliſh the poſſeſſion of the moyties, according to the diviſion, and an Order made to decree the diviſion if cauſe were not ſhewn to the contrary by a certain day that Term.</p>
+            <p>At the day appointed, in preſence of Mr. Attorney General for his Majeſtie, and of Serjeant <hi>Foſter,</hi> ſir <hi>Richard Leidall,</hi> Mr. <hi>Lane,</hi> and Mr. <hi>Welcome,</hi> of councel with the Commoners, upon reading of the agreements and all former proceedings, the ſaid agreement and diviſion were decreed.</p>
+            <p>Since which his Majeſtie for a yearly Rent of 600 <hi>l. per annum,</hi> and other valuable conſiderations hath granted his moytie unto ſir <hi>Robert Killigrew,</hi> Mr. <hi>Kirke</hi> and others.</p>
+            <p>Some of theſe Patentees have ſince for great ſums of money, ſold their parts unto ſuch as are now intereſted, who have beſtowed much money in building upon, dividing, planting, and husbanding of the ſaid Lands.</p>
+            <p>About <hi>Mich.</hi> Term 1641. ſome in the names of themſelves and others, preferred their Petition in the Commons Houſe of Parliament againſt the ſaid improvement, not by their Petition ſo much as alleadging any injuſtice in the Decree made for the ſame in the Dutchy Court, nor any thing elſe (except ſome untruths to be denied) worth the anſwering: Which are as followeth.</p>
+            <p>
+               <hi>Obj.</hi> Firſt, that they were terrified to yield aſſent to the ſaid improvement, by being ſerved with a multitude of Privy Seals.</p>
+            <p>
+               <hi>Anſw.</hi> It was their deſire upon the Agreement aforeſaid, that for the ſtrengthening thereof it might be decreed, and for that the decree might have been er<g ref="char:EOLhyphen"/>roneous, if paſſed without proces ſerved in the Defendants, they were therefore ſerved with Privy Seals (which was the proces of the Dutchy Court) there to anſwer; and where ſo many were intereſted, many muſt of neceſſity be ſerved: But to leſſen the number, none were ſerved but the perſons elected to an<g ref="char:EOLhyphen"/>ſwer for themſelves and the reſt, according to the Order before agreed.</p>
+            <p>
+               <hi>Obj.</hi> 2. That they were drawn to the agreement by ſpecious pretences and threats, as that they ſhould have his Majeſties grace and favour, if in a fair way they would conſent to yield his Majeſtie a proportionable part of the Common; but if not, his Majeſtie would proceed in ſuit againſt them.</p>
+            <p>
+               <hi>Anſw.</hi> We deny any ſuch words uſed, but if they were, it could imply no more, but that his Majeſtie would be glad to have that from them in a fair way, which otherwiſe he muſt be forced to ſeek (being his juſt right) by a legal way.</p>
+            <p>
+               <hi>Obj.</hi> 3. That many of the moſt conſiderable perſons amongſt them never conſented to the improvement.</p>
+            <p>
+               <hi>Anſw.</hi> This we deny, and ſay, all that have any ſhadow of right have aſſented, the reſt are Cottagers, or inhabitants in new erected houſes, which cannot preſcribe to any right of Common.</p>
+            <p>
+               <hi>Obj.</hi> 4. That the agreement was not performed on his Majeſties part.</p>
+            <p>
+               <hi>Anſw.</hi> 1. The King by decree is barred of his Broovadge, and all right of Joyſtment in the Commoners part, and they ever ſince have enjoyed their part free from the ſame. 2. His Majeſties Broovadge Rent of 18 <hi>l. per annum</hi> is by the Decree and by right of Turbery likewiſe diſcharged, and the ſoil of their part decreed to them. 3. The parties above named, and others under whom they claim, long ſince (being in quiet poſſeſſion of their Lands) did for ſeveral years together deſire the ſaid Commoners to nominate the perſons to whom they would have the ſoil of their part granted for them, offering that the ſame ſhould be paſſed and ſent to them under the great and Dutchy Seals, without charge or trouble to the Commoners; but could not be effected, by reaſon the ſaid Commoners could never amongſt themſelves agree who ſhould be their Truſtees in that behalf.</p>
+            <p>So that the improvement being made by conſent, ſetled by Decree in a Court of Juſtice, all performed that could be performed on his Majeſties part; qui<g ref="char:EOLhyphen"/>et poſſeſſion enjoyed on both ſides accordingly for divers years, yet the Commoners whilſt their Petition depended in Parliament undetermined, nay unheard through their own ſlackneſs, in apparent contempt of the Juſtice of the Parliament, and againſt all Law, did in great Troops enter upon the ſaid Patentees Lands, deſtroyed their graſs and corn, caſt down their incloſures, pulled down their houſes on the ſaid Lands, and by force kept poſſeſſion of all the ſaid Lands ever ſince, to the damage of the parties aboveſaid, and others intereſted in the ſaid Lands of above 50000 <hi>l.</hi> whereupon the parties above named, in their Petition to this preſent Parliament, do pray, that upon their ſhewing the ſaid decree by conſent as aforeſaid, and proof made of their quiet poſſeſſion there<g ref="char:EOLhyphen"/>upon, and of their forcible caſting out, they may be reſtored to their quiet poſſeſſion, of their ſeveral ſhares of the ſaid Lands, amounting in all to the quantity of about 1400 <hi>ac.</hi> and an Act paſs for their future quiet and enjoyment of the ſame in ſeveralty, according to their reſpective Eſtates therein.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
